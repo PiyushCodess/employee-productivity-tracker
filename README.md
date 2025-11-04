@@ -2,7 +2,7 @@
 
 A beginner-friendly Python + SQL + Streamlit web application to manage and monitor employee attendance and task productivity.
 
-This project is ideal for learning how to combine **Python scripting**, **SQLite database**, and **Streamlit frontend** for automation and data reporting — a perfect fit for roles involving AI & Automation.
+This project is ideal for learning how to combine Python scripting, SQLite database, and Streamlit frontend for automation and data reporting — a perfect fit for roles involving AI and automation.
 
 ---
 
@@ -30,17 +30,10 @@ This project is ideal for learning how to combine **Python scripting**, **SQLite
 
 ---
 
-## 📸 Screenshots
-
-> (Add screenshots here if you have any!)
-
----
-
 ## 🚀 Live Demo
 
-🔗 [View the Hosted App on Streamlit](https://employee-productivity-tracker.streamlit.app)
+🔗 [employee-productivity-tracker](https://employee-productivity-tracker.onrender.com)
 
-*(Replace with your actual Streamlit link)*
 
 ---
 
@@ -54,3 +47,4 @@ employee_productivity_tracker/
 ├── employees.db           # SQLite database (auto-created)
 ├── reports/               # Folder for exported reports
 └── README.md              # Project overview (this file)
+
